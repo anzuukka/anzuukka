@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @anzuukka
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript. I have basic knowledge of HTML and CSS.
-- 💞️ I’m looking to collaborate on ...
+👋 Hi, I’m @anzuukka. I am a graphic designer by trade, and I am currently working as a UX/UI design trainee in Helsinki, Finland. I’m currently learning JavaScript and I have basic knowledge of HTML and CSS. Would love to combine these skills in the future!
+- 💞️ I’m looking to collaborate on interesting projects that make the world a better place. 
 - 📫 How to reach me ...
-
-<!---
-anzuukka/anzuukka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
